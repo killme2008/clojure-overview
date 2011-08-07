@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<books>
+  <book>
+	<title>Programming Clojure</title>
+	<author>Stuart Halloway</author>
+  </book>
+  <book>
+	<title>The Joy of Clojure</title>
+	<author>Michael Fogus and Chris Houser</author>
+  </book>
+  <book>
+	<title>Pratical Clojure</title>
+	<author>Luke Hart</author>
+  </book>
+</books>
